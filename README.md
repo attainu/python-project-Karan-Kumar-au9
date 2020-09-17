@@ -70,6 +70,16 @@ Output.................
 * Or you will get solved matrix if path is possible.
 
 
+2nd Method to run program without vs code
 
+* Pull code From git repo  ( https://github.com/attainu/python-project-Karan-Kumar-au9/tree/master )
 
+* Keep all files in same folder (maze.py, inputmaze.py outputmaze.py)
 
+* Double click on maze.py file and open it in cmd.
+
+* Now enter size of matrix in first row
+
+* Now enter matrix and press enter
+
+* you will find input saved in inputmaze.txt file and solution in outputmaze.txt
