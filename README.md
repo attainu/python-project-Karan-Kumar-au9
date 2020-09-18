@@ -43,7 +43,7 @@ Input..................
 
 * Open cmd terminal in vs code
 
-* Type command (maze.py -i inputmaze.txt -o outputmaze.txt) and press enter
+* Type command (maze.py) and press enter
 
 * Now type size of matrix(example- 4) and press enter 
 
@@ -62,6 +62,7 @@ Input..................
 
 
 Function C ^^^^^^^^^^^^
+
 Output.................
 ***********************
 
