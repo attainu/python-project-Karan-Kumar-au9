@@ -54,11 +54,12 @@ Input..................
 0 1 1 0
 0 1 0 1 )
 
+* Solution will be printed sucessfully
+
+
 ** Note **
 @ Please enter only binary digits (0,1) where 0 means blocked cell and 1 means active cell.
 @ If you put size 3 it means 3 rows and 3 column, same goes in 4, 5 etc 
-
-* Solution will be printed sucessfully
 
 
 Function C ^^^^^^^^^^^^
